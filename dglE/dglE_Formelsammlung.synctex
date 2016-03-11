@@ -1,0 +1,337 @@
+SyncTeX Version:1
+Input:1:D:\FHNW\4_Semester\dglE\dglE_Formelsammlung.tex
+Input:2:D:\FHNW\4_Semester\dglE\fhnwreport.cls
+Input:3:C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+Input:4:C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo
+Input:5:C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+Input:6:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+Input:7:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+Input:8:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty
+Input:9:C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+Input:10:C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+Input:11:C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty
+Input:12:C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty
+Input:13:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+Input:14:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+Input:15:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+Input:16:C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg
+Input:17:C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def
+Input:18:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+Input:19:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+Input:20:C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty
+Input:21:C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg
+Input:22:C:\Program Files\MiKTeX 2.9\tex\generic\babel\germanb.ldf
+Input:23:C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def
+Input:24:C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty
+Input:25:C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def
+Input:26:C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu
+Input:27:C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu
+Input:28:C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu
+Input:29:C:\Program Files\MiKTeX 2.9\tex\latex\csquotes\csquotes.sty
+Input:30:C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+Input:31:C:\Program Files\MiKTeX 2.9\tex\latex\misc\etex.sty
+Input:32:C:\Program Files\MiKTeX 2.9\tex\latex\csquotes\csquotes.def
+Input:33:C:\Program Files\MiKTeX 2.9\tex\latex\csquotes\csquotes.cfg
+Input:34:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+Input:35:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+Input:36:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+Input:37:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+Input:38:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+Input:39:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+Input:40:C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+Input:41:C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
+Input:42:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+Input:43:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+Input:44:C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty
+Input:45:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+Input:46:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+Input:47:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+Input:48:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+Input:49:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+Input:50:C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty
+Input:51:C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty
+Input:52:C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg
+Input:53:C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty
+Input:54:C:\Program Files\MiKTeX 2.9\tex\latex\todonotes\todonotes.sty
+Input:55:C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty
+Input:56:C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+Input:57:C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex
+Input:58:C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+Input:59:C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg
+Input:60:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
+Input:61:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
+Input:62:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
+Input:63:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex
+Input:64:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.tex
+Input:65:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def
+Input:66:C:\Program Files\MiKTeX 2.9\tex\latex\ms\everyshi.sty
+Input:67:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
+Input:68:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+Input:69:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+Input:70:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+Input:71:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+Input:72:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+Input:73:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg
+Input:74:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+Input:75:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+Input:76:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+Input:77:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+Input:78:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+Input:79:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+Input:80:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex
+Input:81:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex
+Input:82:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex
+Input:83:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex
+Input:84:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+Input:85:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+Input:86:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+Input:87:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+Input:88:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+Input:89:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+Input:90:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+Input:91:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+Input:92:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex
+Input:93:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+Input:94:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+Input:95:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+Input:96:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+Input:97:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+Input:98:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+Input:99:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+Input:100:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+Input:101:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+Input:102:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+Input:103:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+Input:104:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+Input:105:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+Input:106:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+Input:107:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+Input:108:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+Input:109:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+Input:110:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+Input:111:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+Input:112:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+Input:113:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
+Input:114:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+Input:115:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+Input:116:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
+Input:117:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+Input:118:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex
+Input:119:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+Input:120:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+Input:121:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+Input:122:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+Input:123:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+Input:124:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
+Input:125:C:\Program Files\MiKTeX 2.9\tex\latex\cite\cite.sty
+Input:126:C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty
+Input:127:C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty
+Input:128:D:\FHNW\4_Semester\dglE\build\dglE_Formelsammlung.aux
+Input:129:C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd
+Input:130:C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii
+Input:131:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+Input:132:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+Input:133:D:\FHNW\4_Semester\dglE\build\dglE_Formelsammlung.out
+Input:134:D:\FHNW\4_Semester\dglE\build\dglE_Formelsammlung.out
+Input:135:C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd
+Output:pdf
+Magnification:1000
+Unit:1
+X Offset:0
+Y Offset:0
+Content:
+!10309
+{1
+[1,17:4736286,54448649:29760291,49712363,0
+h1,17:4736286,4736286:0,0,0
+[1,17:4736286,4736286:0,0,0
+(1,17:4736286,2690679:0,0,0
+k1,17:4736286,2690679:140366
+)
+]
+[1,17:4736286,54448649:29760291,49712363,0
+h1,17:4736286,4736286:0,0,0
+[1,17:4661701,54448649:29834876,51692189,0
+[1,17:4661701,3542892:29834876,786432,0
+(1,17:4661701,3542892:29834876,489408,0
+(1,17:4661701,3542892:29834876,489408,0
+k1,17:34137769,3542892:29476068
+x1,17:34496578,3542892
+)
+)
+]
+[1,17:4661701,50905758:29834876,44938783,0
+(1,7:4661701,6666267:29834876,699292,204779
+(1,7:4661701,6666267:1468419,675699,0
+g1,7:4661701,6666267
+x1,7:5186402,6666267
+g1,7:6130120,6666267
+)
+x1,7:9486884,6666267
+g1,7:9749228,6666267
+x1,7:11741402,6666267
+g1,7:12003746,6666267
+x1,7:12790791,6666267
+g1,7:13053135,6666267
+x1,7:14154435,6666267
+x1,7:15288785,6666267
+x1,7:17009179,6666267
+k1,7:34496577,6666267:17487398
+g1,7:34496577,6666267
+)
+(1,10:4661701,8454669:29834876,0,0
+k1,10:19579139,8454669:14917438
+(1,9:19579139,8454669:0,0,0
+g1,9:19579139,8454669
+g1,9:19579139,8454669
+g1,9:19251459,8454669
+(1,9:19251459,8454669:0,0,0
+)
+g1,9:19579139,8454669
+)
+g1,10:19579139,8454669
+k1,10:34496577,8454669:14917438
+)
+(1,14:4661701,10066855:17403478,623900,267389
+g1,14:17093098,10066855
+(1,14:17093098,10066855:377582,623900,267389
+k1,14:17111870,10066855:18772
+(1,14:17111870,10066855:0,623900,267389
+[1,14:17111870,10066855:0,623900,267389
+(1,5:17111870,10066855:0,623900,267389
+r1,14:17111870,10066855:0,891289,267389
+)
+]
+)
+(1,14:17111870,10066855:358810,462465,0
+$1,14:17111870,10066855
+x1,14:17470680,10066855
+$1,14:17470680,10066855
+)
+)
+g1,14:17470680,10066855
+(1,14:17470680,10066855:4594499,623900,267389
+(1,14:17470680,10066855:4436686,538214,179404
+$1,14:17470680,10066855
+(1,14:17470680,10066855:4436686,538214,179404
+h1,14:17470680,10066855:0,0,0
+g1,14:17670015,10066855
+x1,14:18228165,10066855
+g1,14:18427500,10066855
+x1,14:18779335,10066855
+g1,14:18964550,10066855
+x1,14:19522700,10066855
+g1,14:19682168,10066855
+x1,14:21011509,10066855
+g1,14:21170977,10066855
+x1,14:21370316,10066855
+g1,14:21529784,10066855
+x1,14:21881619,10066855
+)
+$1,14:21907366,10066855
+)
+k1,14:22065179,10066855:157813
+)
+g1,14:34496576,10066855
+(1,14:34496576,10066855:-12431397,623900,267389
+)
+g1,14:22065179,10066855
+)
+(1,14:4661701,11154753:17403478,623900,267389
+g1,14:17093098,11154753
+(1,14:17093098,11154753:377582,623900,267389
+k1,14:17470680,11154753:377582
+(1,14:17470680,11154753:0,623900,267389
+[1,14:17470680,11154753:0,623900,267389
+(1,5:17470680,11154753:0,623900,267389
+r1,14:17470680,11154753:0,891289,267389
+)
+]
+)
+(1,14:17470680,11154753:0,0,0
+$1,14:17470680,11154753
+h1,14:17470680,11154753:0,0,0
+$1,14:17470680,11154753
+)
+)
+g1,14:17470680,11154753
+(1,14:17470680,11154753:4594499,623900,267389
+(1,14:17470680,11154753:558145,498346,139535
+$1,14:17470680,11154753
+(1,14:17470680,11154753:558145,498346,139535
+h1,14:17470680,11154753:0,0,0
+g1,14:17670015,11154753
+x1,14:18028825,11154753
+)
+$1,14:18028825,11154753
+)
+k1,14:22065179,11154753:4036354
+)
+g1,14:34496576,11154753
+(1,14:34496576,11154753:-12431397,623900,267389
+)
+g1,14:22065179,11154753
+)
+(1,14:4661701,12402931:17403478,718645,267389
+g1,14:17093098,12402931
+(1,14:17093098,12402931:377582,718645,267389
+g1,14:17093098,12402931
+(1,14:17093098,12402931:0,623900,267389
+[1,14:17093098,12402931:0,623900,267389
+(1,5:17093098,12402931:0,623900,267389
+r1,14:17093098,12402931:0,891289,267389
+)
+]
+)
+(1,14:17093098,12402931:377582,308974,139537
+$1,14:17093098,12402931
+x1,14:17444933,12402931
+$1,14:17470680,12402931
+)
+)
+g1,14:17470680,12402931
+(1,14:17470680,12402931:4594499,718645,267389
+(1,14:17470680,12402931:4594499,718645,0
+$1,14:17470680,12402931
+(1,14:17470680,12402931:4594499,718645,0
+h1,14:17470680,12402931:0,0,0
+g1,14:17670015,12402931
+x1,14:18228165,12402931
+g1,14:18427500,12402931
+x1,14:19036978,12402931
+g1,14:19247775,12402931
+x1,14:19447114,12402931
+g1,14:19606582,12402931
+x1,14:19940724,12402931
+(1,14:19940724,12106632:2124455,422346,160202
+(1,14:19940724,11684286:371376,0,582548
+x1,14:20203782,11684286
+)
+g1,14:20404944,12106632
+x1,14:22032411,12106632
+)
+)
+$1,14:22065179,12402931
+)
+g1,14:22065179,12402931
+)
+g1,14:34496576,12402931
+(1,14:34496576,12402931:-12431397,718645,267389
+)
+g1,14:22065179,12402931
+)
+]
+(1,17:4661701,54448649:29834876,0,0
+h1,17:4661701,54448649:29834876,0,0
+)
+]
+]
+]
+!4337
+}1
+Input:136:D:\FHNW\4_Semester\dglE\build\dglE_Formelsammlung.aux
+!73
+Postamble:
+Count:158
+!25
+Post scriptum:
